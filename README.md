@@ -2,9 +2,11 @@
 ![image](https://github.com/user-attachments/assets/5c0661e3-ddf1-4764-b393-bef0e5d95f84)
 
 #Business Problem
+
 FLO is an online shoe store. They want to divide their customers into different groups and create marketing strategies for each group. To do this, customer behaviors will be analyzed, and groups will be created based on similar behaviors.
 
 #Dataset Story
+
 The dataset consists of information collected from customers who made purchases at FLO in 2020-2021. These customers are OmniChannel users (shopping both online and offline). The data is based on their past shopping behaviors.
 
 master_id: Unique customer number
